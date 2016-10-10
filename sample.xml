@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <major name="Software Engineering" />
+    <!-- first student -->
+    <student id="001">
+        <name>Allen</name>
+        <gender>Male</gender>
+        <age>20</age>
+    </student>
+    <!-- second student -->
+    <student id="002">
+        <name>namy</name>
+        <gender>Female</gender>
+        <age>18</age>
+    </student>
+    <!-- third student -->
+    <student id="003">
+        <name>lufy</name>
+        <gender>Male</gender>
+        <age>18</age>
+    </student>
+</root>
+
+
+
+
+
